@@ -1,2 +1,7 @@
 # horiseon-seo-project
-SEO Site Optimization exercice
+SEO Site Optimization 
+## table of content
+## description
+## license
+##
+
