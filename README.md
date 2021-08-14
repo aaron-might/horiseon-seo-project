@@ -1,6 +1,6 @@
 # Horisen SEO Project: Site Optimization Exercice
 
-![budget-tracker-demo](./demos/budget-tracker-demo.gif)
+
 
 ## Overview
 for the horiseon project the aims was to refactor existing code to make it more accessible. organizing the css the elements HTML element to reflect the correct semantics of the HTML elements, including comment before each element or section of the page and verifying that all links are functionning correctly .
@@ -31,4 +31,4 @@ for the horiseon project the aims was to refactor existing code to make it more 
 ## Screenshorts
 
 - [screenshots](assets/images/horiseon1.png)
-- [ screenshots](assets/images/horiseon.png)
+- [screenshots](assets/images/horiseon.png)
